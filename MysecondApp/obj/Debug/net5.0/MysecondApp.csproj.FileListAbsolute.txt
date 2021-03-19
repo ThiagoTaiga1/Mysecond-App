@@ -1,0 +1,16 @@
+/home/taiga/Documentos/dev/MysecondApp/bin/Debug/net5.0/MysecondApp
+/home/taiga/Documentos/dev/MysecondApp/bin/Debug/net5.0/MysecondApp.deps.json
+/home/taiga/Documentos/dev/MysecondApp/bin/Debug/net5.0/MysecondApp.runtimeconfig.json
+/home/taiga/Documentos/dev/MysecondApp/bin/Debug/net5.0/MysecondApp.runtimeconfig.dev.json
+/home/taiga/Documentos/dev/MysecondApp/bin/Debug/net5.0/MysecondApp.dll
+/home/taiga/Documentos/dev/MysecondApp/bin/Debug/net5.0/ref/MysecondApp.dll
+/home/taiga/Documentos/dev/MysecondApp/bin/Debug/net5.0/MysecondApp.pdb
+/home/taiga/Documentos/dev/MysecondApp/obj/Debug/net5.0/MysecondApp.csprojAssemblyReference.cache
+/home/taiga/Documentos/dev/MysecondApp/obj/Debug/net5.0/MysecondApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/taiga/Documentos/dev/MysecondApp/obj/Debug/net5.0/MysecondApp.AssemblyInfoInputs.cache
+/home/taiga/Documentos/dev/MysecondApp/obj/Debug/net5.0/MysecondApp.AssemblyInfo.cs
+/home/taiga/Documentos/dev/MysecondApp/obj/Debug/net5.0/MysecondApp.csproj.CoreCompileInputs.cache
+/home/taiga/Documentos/dev/MysecondApp/obj/Debug/net5.0/MysecondApp.dll
+/home/taiga/Documentos/dev/MysecondApp/obj/Debug/net5.0/ref/MysecondApp.dll
+/home/taiga/Documentos/dev/MysecondApp/obj/Debug/net5.0/MysecondApp.pdb
+/home/taiga/Documentos/dev/MysecondApp/obj/Debug/net5.0/MysecondApp.genruntimeconfig.cache
